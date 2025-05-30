@@ -1,5 +1,5 @@
-Hotel Room List Configurator standalone App
-Add JAR/Folder ListIntegratorLibrary to run HotelRoomListConfigurator app
+Hotel Room List Configurator standalone App.
+Add JAR/Folder ListIntegratorLibrary before running this HotelRoomListConfigurator app
 HotelRoomListConfigurator allows user to 
   - Add room number and room type to the list. 
   - Remove selected room number and room type from the list.
