@@ -2,7 +2,7 @@
 
 - Before running this HotelRoomListConfigurator app
   - Create Folder path C:\HousekeepingReportCreatorAppFiles\RoomConfiguration
-  - Add JAR/Folder ListIntegratorLibrary
+  - Add JAR/Folder ListIntegratorLibrary (https://github.com/hbhakta2/ListIntegratorLibrary)
 
 - HotelRoomListConfigurator allows user to 
   - Add room number and room type to the list. 
