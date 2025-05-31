@@ -1,7 +1,7 @@
 - Hotel Room List Configurator standalone App.
 
 - Before running this HotelRoomListConfigurator app
-  - Create Folder path C:\HousekeepingReportCreatorAppFiles\RoomConfiguration
+  - Create Folder path "C:\HousekeepingReportCreatorAppFiles\RoomConfiguration"
   - Add JAR/Folder ListIntegratorLibrary (https://github.com/hbhakta2/ListIntegratorLibrary)
 
 - HotelRoomListConfigurator allows user to 
