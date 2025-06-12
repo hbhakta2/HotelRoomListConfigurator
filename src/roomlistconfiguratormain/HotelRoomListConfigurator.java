@@ -1,10 +1,4 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
- */
 package roomlistconfiguratormain;
-
-import listintegratorlibrary.ListIntegratorFrame;
 
 /**
  * HotelRoomListConfigurator class
@@ -23,6 +17,6 @@ public class HotelRoomListConfigurator {
      */
     public static void main(String[] args) {
         
-        ListIntegratorFrame liFrame = new ListIntegratorFrame();
+        RoomListConfiguratorFrame roomListConfiguratorFrame = new RoomListConfiguratorFrame();
     }  
 }
