@@ -13,3 +13,5 @@ Features:
 - Labels and fields:- Enter number & Room Type
 - Label and display area: Room List
 - ADD, REMOVE, and SAVE button
+
+Download executable application & installation instructions: https://www.dropbox.com/scl/fi/a7r41ibbnt8oh8ck8e8uv/output-1.zip
